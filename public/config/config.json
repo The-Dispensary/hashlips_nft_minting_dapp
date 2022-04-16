@@ -6,8 +6,8 @@
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "Sato City",
-  "SYMBOL": "SATOCITY",
+  "NFT_NAME": "Tokin City",
+  "SYMBOL": "TOKIN",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 5000000000000000,
   "DISPLAY_COST": 0.005,
